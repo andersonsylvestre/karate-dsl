@@ -1,6 +1,8 @@
-# karate-dsl
-Aqui vai conter como instalar e configurar o Karate-DSL, e vamos usar o VSCode ao em vez do IntelliJ.
+# Karatê DSL
+O Karate DSL é uma ferramenta desenvolvida em Java que permite o desenvolvimento e execução de testes de APIs utilizando uma sintaxe semelhante à do Gherkin. Ela foi disponibilizada recentemente (a pouco mais de dois anos) e vem crescendo em popularidade desde então.
 
-## Instalação
+## O que vamos usar
+
+*VSCode
 
 
