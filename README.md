@@ -11,7 +11,7 @@ O Karate DSL é uma ferramenta desenvolvida em Java que permite o desenvolviment
 
 Para a instalação do Karatê-Dsl estou usando uma configuração de hardware:
 
-* Processador Intel Core I5 7 Geração
+* Processador Intel Core I5 7ª Geração
 * Memória de 16 GigaBits
 * HD de um TG
 * Sistema operacional Windows 10 Pró
