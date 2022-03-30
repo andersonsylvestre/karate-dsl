@@ -7,6 +7,15 @@ O Karate DSL é uma ferramenta desenvolvida em Java que permite o desenvolviment
 * VSCode
 * Karatê
 
+## Requisitos de hardware
+
+Para a instalação do Karatê-Dsl estou usando uma configuração de hardware:
+
+* Processador Intel Core I5 7 Geração
+* Memória de 16 GigaBits
+* HD de um TG
+* Sistema operacional Windows 10 Pró
+
 ## Instalação do JDK 8 (Windows 10/11)
 
 Para fazer a instalação do **JDK 8** vá ao site da Oracle e baixe [JDK8](https://www.oracle.com/java/technologies/downloads/) e siga os seguintes passos para instalação do JDK 8.
