@@ -7,6 +7,8 @@ O Karate DSL é uma ferramenta desenvolvida em Java que permite o desenvolviment
 * VSCode
 * Karatê
 
-## Instalação do Java SE Development Kit 8u202
+## Instalação do JDK 8
+
+Para fazer a instalação do JDK 8 vá até este link e baixe [JDK8](https://www.oracle.com/java/technologies/downloads/)
 
 
