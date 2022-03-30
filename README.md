@@ -9,7 +9,7 @@ O Karate DSL é uma ferramenta desenvolvida em Java que permite o desenvolviment
 
 ## Instalação do JDK 8 (Windows 10/11)
 
-Para fazer a instalação do **JDK 8** o site da Oracle e baixe [JDK8](https://www.oracle.com/java/technologies/downloads/) e siga os seguintes passos para instalação do JDK 8.
+Para fazer a instalação do **JDK 8** vá ao site da Oracle e baixe [JDK8](https://www.oracle.com/java/technologies/downloads/) e siga os seguintes passos para instalação do JDK 8.
 Após baixar o JDK 8, vá com o botão direito do mouse e executa o JDK 8 como administrador
 
 ## Instalação e configuração do VSCode (Windows 10/11)
