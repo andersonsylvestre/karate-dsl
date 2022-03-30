@@ -3,6 +3,6 @@ O Karate DSL é uma ferramenta desenvolvida em Java que permite o desenvolviment
 
 ## O que vamos usar
 
-*VSCode
+* VSCode
 
 
