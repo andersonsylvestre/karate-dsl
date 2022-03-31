@@ -16,9 +16,9 @@ Para a instalação do Karatê-Dsl estou usando uma configuração de hardware:
 * HD de um TG
 * Sistema operacional Windows 10 Pró
 
-## Instalação do JDK 8 (Windows 10)
+## Instalação do JDK 8u202 (Windows 10)
 
-Para fazer a instalação do **JDK 8** vá ao site da Oracle e baixe [JDK8](https://www.oracle.com/java/technologies/downloads/) e siga os seguintes passos para instalação do JDK 8.
+Para fazer a instalação do **JDK 8u202** vá ao site da Oracle e baixe [JDK8](https://www.oracle.com/java/technologies/downloads/) e siga os seguintes passos para instalação do JDK 8.
 Após baixar o JDK 8, vá com o botão direito do mouse e executa o JDK 8 como administrador
 
 ## Instalação e configuração do VSCode (Windows 10)
