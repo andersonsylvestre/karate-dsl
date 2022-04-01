@@ -67,8 +67,8 @@ Após a instalação abra o **CMD** e digite o seguinte comando:
 
 O resultado deve ser a versão do VSCode como no exemplo abaixo
 
-  1.66.0
-  e18005f0f1b33c29e81d732535d8c0e47cafb0b5
+  1.66.0 <br>
+  e18005f0f1b33c29e81d732535d8c0e47cafb0b5 <br>
   x64
 
 ## Instalação e configuração do Karatê-Dsl
