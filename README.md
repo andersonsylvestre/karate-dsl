@@ -47,7 +47,7 @@ Agora abra novamente o **CMD** e digite:
 
 **"%JAVA_HOME%"\bin\java -version**
 
-O Resultado deve ser a versão do Java como no exemplo abaixo
+O resultado deve ser a versão do Java como no exemplo abaixo
 
 **java version "1.8.0_202" <br>
 Java(TM) SE Runtime Environment (build 1.8.0_202-b08) <br>
