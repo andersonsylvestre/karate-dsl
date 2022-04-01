@@ -75,4 +75,12 @@ Exemplo
 
 ### Configurando o VSCode ###
 
+Abra o VSCode instale o seguintes plugins
+
+* Cucumber(Gherkin)
+* Language Support for Java
+* Maven for Java
+* VSCode-icons
+* Hyper Term Theme
+
 ## Instalação e configuração do Karatê-Dsl
