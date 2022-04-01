@@ -63,9 +63,11 @@ Em seguida, execute o instalador baixado e siga as instruções na tela, não es
 
 Após a instalação abra o **CMD** e digite o seguinte comando:
 
-* code --version
+**code --version**
 
 O resultado deve ser a versão do VSCode como no exemplo abaixo
+
+Exemplo
 
   1.66.0 <br>
   e18005f0f1b33c29e81d732535d8c0e47cafb0b5 <br>
