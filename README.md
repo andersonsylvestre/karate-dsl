@@ -22,9 +22,9 @@ Para fazer a instalação do **JDK 8u202** vá ao site da Oracle e baixe [JDK8](
 
 Após baixar o JDK 8, vá com o botão direito do mouse e executa o JDK 8 como administrador.
 
-*****1º Inicie a intalação do Java JDK 8u202
-2º Clique no botão Next.
-3º Aguarde a finalização da instalação java JDK*****
+* 1º Inicie a intalação do Java JDK 8u202
+* 2º Clique no botão Next.
+* 3º Aguarde a finalização da instalação java JDK 8u202
 
 Agora verifique a existencia da variavel JAVA_HOME abrindo o **CMD** e digitando o comando **echo %JAVA_HOME%**
 
