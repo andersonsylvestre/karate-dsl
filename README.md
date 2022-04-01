@@ -43,6 +43,16 @@ Se caso não mostrar deve entrar em variaveis de ambiente e fazer o cadastro exe
 * Após abrir a tela Nova variáveis de sistema insire o Nome da variável com **JAVA_HOME** e o valor da variável **C:\Program Files\Java\jdk1.8.0_202**
 * Após feito este procedimento clique no botão OK
 
+Agora abra novamente o **CMD** e digite:
+
+**"%JAVA_HOME%"\bin\java -version**
+
+O Resultado deve ser a versão do Java como no exemplo abaixo
+
+**java version "14.0.1" 2020-04-14 <br>
+Java(TM) SE Runtime Environment (build 14.0.1+7) <br>
+Java HotSpot(TM) 64-Bit Server VM (build 14.0.1+7, mixed mode, sharing)**
+
 
 
 ## Instalação e configuração do VSCode (Windows 10)
