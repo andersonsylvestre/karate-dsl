@@ -49,9 +49,9 @@ Agora abra novamente o **CMD** e digite:
 
 O Resultado deve ser a versão do Java como no exemplo abaixo
 
-**java version "14.0.1" 2020-04-14 <br>
-Java(TM) SE Runtime Environment (build 14.0.1+7) <br>
-Java HotSpot(TM) 64-Bit Server VM (build 14.0.1+7, mixed mode, sharing)**
+**java version "1.8.0_202" <br>
+Java(TM) SE Runtime Environment (build 1.8.0_202-b08) <br>
+Java HotSpot(TM) 64-Bit Server VM (build 25.202-b08, mixed mode)**
 
 
 
