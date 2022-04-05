@@ -53,6 +53,9 @@ O resultado deve ser a versão do Java como no exemplo abaixo
 Java(TM) SE Runtime Environment (build 1.8.0_202-b08) <br>
 Java HotSpot(TM) 64-Bit Server VM (build 25.202-b08, mixed mode)**
 
+## Instalação do JDK 8u202 (Mac OS)
+
+Para fazer a instalação do **JDK 8u202** vá ao site da Oracle e baixe [JDK8](https://www.oracle.com/java/technologies/downloads/) e siga os seguintes passos para instalação do JDK 8.
 
 
 ## Instalação e configuração do VSCode (Windows 10)
