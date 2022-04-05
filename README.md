@@ -81,7 +81,7 @@ Para testar se o Java foi instalado e está funcionando corretamente no computad
 * Ativar o modo de edição de texto teclando a letra i
 * Editar o arquivo para configurar as variáveis de ambiente. O arquivo deverá ficar da seguinte forma:
 
-&#160; **export JAVA_HOME=`/usr/libexec/java_home`**
+&#160; **export JAVA_HOME=`/usr/libexec/java_home`** <br>
 &#160; **export PATH=$JAVA_HOME/bin:$PATH**
 
 * Sair do modo de edição teclando ESC
