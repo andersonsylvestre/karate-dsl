@@ -64,7 +64,7 @@ Para fazer a instalação do **JDK 8u65** vá ao site da Oracle e baixe [JDK8](h
 * O Assistente de Instalação exibe a tela de instalação Bem-vindo ao Java. Clique em **Próximo**
 * A Oracle tem parceria com empresas que oferecem vários produtos. O instalador pode apresentar a você a opção para instalação desses programas durante a instalação do Java. Após assegurar que os programas desejados sejam selecionados, clique no botão Próximo para continuar a instalação.
 
-* Problemas Conhecidos
+* Problemas Conhecidos <br>
 [macosx] Problemas de acessibilidade (a11y) à tela de ofertas do patrocinador
 Os usuários que utilizam o teclado para acessar interfaces de usuário no instalador do Java não poderão acessar hiperlinks e caixas de seleção nas telas de ofertas de add-on do software. Como solução alternativa para definir preferências relativas ao software de add-on na interface, os usuários podem desativar essas ofertas no painel de controle do Java ou especificar SPONSORS=0 na linha de comandos. Para obter mais informações, consulte as Perguntas Frequentes em Install Java without sponsor offers.
 
