@@ -34,14 +34,14 @@ A saida deve ser igual a esta:
 
 **C:\Program Files\Java\jdk1.8.0_202**
 
-Se caso não mostrar deve entrar em variaveis de ambiente e fazer o cadastro exemplo:
+Se caso não encontrar deve-se entrar nas variaveis de ambiente e fazer o cadastro exemplo:
 
-* Vá com o botão direito do mouse em Este Computador e clique em propriedades
-* No lado esquerdo encontra-se link Configurações avançadas do sistema clique nesta opção
-* Após abrir a tela da propriedade do Sistema clique no botão Variaveis de Ambiente...
-* Após abrir a tela de Variáveis de ambiente clique no botão novo na opção Variáveis de sistema
+* Vá com o botão direito do mouse em **Este Computador** e clique em propriedades
+* No lado esquerdo encontra-se link **Configurações avançadas** do sistema clique nesta opção
+* Após abrir a tela da propriedade do Sistema clique no botão **Variaveis de Ambiente...**
+* Após abrir a tela de Variáveis de ambiente clique no botão novo na opção **Variáveis de sistema**
 * Após abrir a tela Nova variáveis de sistema insire o Nome da variável com **JAVA_HOME** e o valor da variável **C:\Program Files\Java\jdk1.8.0_202**
-* Após feito este procedimento clique no botão OK
+* Após feito este procedimento clique no botão **OK**
 
 Agora abra novamente o **CMD** e digite:
 
