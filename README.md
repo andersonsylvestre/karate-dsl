@@ -76,9 +76,9 @@ Para testar se o Java foi instalado e está funcionando corretamente no computad
 ### Configurando as variaveis de ambiente ###
 
 * Iniciar o terminal
-* Executar o comando cd ~
-* Executar o comando vi .bash_profile
-* Ativar o modo de edição de texto teclando a letra i
+* Executar o comando **cd ~**
+* Executar o comando vim **.bash_profile**
+* Ativar o modo de edição de texto teclando a letra **i**
 * Editar o arquivo para configurar as variáveis de ambiente. O arquivo deverá ficar da seguinte forma:
 
 &#160; **export JAVA_HOME=`/usr/libexec/java_home`** <br>
@@ -99,9 +99,16 @@ Para o **Windows:** <br>
 
 Para o **Mac OS**:
 * Iniciar o terminal
-* Executar o comando cd ~
-* Executar o comando vi .bash_profile
+* Executar o comando **cd ~**
+* Executar o comando **vim .bash_profile**
 * Acrescentar as variáveis do Maven:
+
+**export JAVA_HOME=`/usr/libexec/java_home`** <br>
+**export MAVEN_HOME=~/Documents/apache-maven-3.8.4** <br>
+**export PATH=$JAVA_HOME/bin:$PATH** <br>
+**export PATH=$MAVEN_HOME/bin:$PATH**
+
+
 
 
 ## Instalação e configuração do VSCode (Windows 10)
