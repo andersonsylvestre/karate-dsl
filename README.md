@@ -103,7 +103,7 @@ Para o **Mac OS**:
 * Executar o comando **vim .bash_profile**
 * Acrescentar as variáveis do Maven:
 
-**export JAVA_HOME=`/usr/libexec/java_home`** <br>
+* **export JAVA_HOME=`/usr/libexec/java_home`** <br>
 **export MAVEN_HOME=~/Documents/apache-maven-3.8.4** <br>
 **export PATH=$JAVA_HOME/bin:$PATH** <br>
 **export PATH=$MAVEN_HOME/bin:$PATH**
