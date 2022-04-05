@@ -73,6 +73,19 @@ Os usuários que utilizam o teclado para acessar interfaces de usuário no insta
 * **Teste da instalação** <br>
 Para testar se o Java foi instalado e está funcionando corretamente no computador, execute este [applet de teste.](https://www.java.com/pt-BR/download/uninstalltool.jsp)
 
+### Configurando as variaveis de ambiente ###
+
+* Iniciar o terminal
+* Executar o comando cd ~
+* Executar o comando vi .bash_profile
+* Ativar o modo de edição de texto teclando a letra i
+* Editar o arquivo para configurar as variáveis de ambiente. O arquivo deverá ficar da seguinte forma:
+
+&#160; **export JAVA_HOME=`/usr/libexec/java_home`**
+&#160; **export PATH=$JAVA_HOME/bin:$PATH**
+
+* Sair do modo de edição teclando ESC
+* Salvar o arquivo teclando :wq e pressionando enter
 
 
 ## Instalação e configuração do VSCode (Windows 10)
