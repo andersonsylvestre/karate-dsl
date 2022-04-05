@@ -70,6 +70,9 @@ Os usuários que utilizam o teclado para acessar interfaces de usuário no insta
 
 * Após a conclusão da instalação, uma tela de confirmação será exibida. Clique em Fechar para finalizar o processo de instalação.
 
+* **Teste da instalação** <br>
+Para testar se o Java foi instalado e está funcionando corretamente no computador, execute este [applet de teste.](https://www.java.com/pt-BR/download/uninstalltool.jsp)
+
 
 
 ## Instalação e configuração do VSCode (Windows 10)
