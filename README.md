@@ -108,6 +108,9 @@ Para o **Mac OS**:
 **export PATH=$JAVA_HOME/bin:$PATH** <br>
 **export PATH=$MAVEN_HOME/bin:$PATH**
 
+* Sair do modo de edição teclando ESC
+* Salvar o arquivo teclando :wq e pressionando enter
+
 
 
 
