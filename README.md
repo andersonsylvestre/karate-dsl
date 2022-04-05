@@ -18,7 +18,7 @@ Para a instalação do Karatê-Dsl estou usando uma configuração de hardware:
 
 ## Instalação do JDK 8u202 (Windows 10)
 
-Para fazer a instalação do **JDK 8u202** vá ao site da Oracle e baixe [JDK8](https://www.oracle.com/java/technologies/downloads/) e siga os seguintes passos para instalação do JDK 8.
+Para fazer a instalação do **JDK 8u202** vá ao site da Oracle e baixe [JDK8](https://www.oracle.com/java/technologies/downloads/#jdk18-windows) e siga os seguintes passos para instalação do JDK 8.
 
 Após baixar o JDK 8, vá com o botão direito do mouse e executa o JDK 8 como administrador.
 
@@ -55,7 +55,21 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.202-b08, mixed mode)**
 
 ## Instalação do JDK 8u202 (Mac OS)
 
-Para fazer a instalação do **JDK 8u202** vá ao site da Oracle e baixe [JDK8](https://www.oracle.com/java/technologies/downloads/) e siga os seguintes passos para instalação do JDK 8.
+Para fazer a instalação do **JDK 8u65** vá ao site da Oracle e baixe [JDK8](https://www.oracle.com/java/technologies/downloads/#jdk18-mac) e siga os seguintes passos para instalação do JDK 8u65.
+
+* Faça download do arquivo jre-8u65-macosx-x64.dmg.
+* Revise e concorde com os termos do contrato de licença antes de fazer o download do arquivo.
+* Clique duas vezes no arquivo .dmg para inicializá-lo
+* Clique duas vezes no ícone do pacote para iniciar o Assistente de instalação
+* O Assistente de Instalação exibe a tela de instalação Bem-vindo ao Java. Clique em **Próximo**
+* A Oracle tem parceria com empresas que oferecem vários produtos. O instalador pode apresentar a você a opção para instalação desses programas durante a instalação do Java. Após assegurar que os programas desejados sejam selecionados, clique no botão Próximo para continuar a instalação.
+
+Problemas Conhecidos
+[macosx] Problemas de acessibilidade (a11y) à tela de ofertas do patrocinador
+Os usuários que utilizam o teclado para acessar interfaces de usuário no instalador do Java não poderão acessar hiperlinks e caixas de seleção nas telas de ofertas de add-on do software. Como solução alternativa para definir preferências relativas ao software de add-on na interface, os usuários podem desativar essas ofertas no painel de controle do Java ou especificar SPONSORS=0 na linha de comandos. Para obter mais informações, consulte as Perguntas Frequentes em Install Java without sponsor offers.
+
+* Após a conclusão da instalação, uma tela de confirmação será exibida. Clique em Fechar para finalizar o processo de instalação.
+
 
 
 ## Instalação e configuração do VSCode (Windows 10)
