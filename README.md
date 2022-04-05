@@ -87,6 +87,17 @@ Para testar se o Java foi instalado e está funcionando corretamente no computad
 * Sair do modo de edição teclando ESC
 * Salvar o arquivo teclando :wq e pressionando enter
 
+## Baixando e configurando o Maven ##
+
+Baixar a versão binária zipada do Maven (-bin.zip). [Download Maven](https://maven.apache.org/download.cgi)
+
+Extrair o zip baixado em alguma pasta de sua preferência. Sugestão: Pasta Documents do seu usuário no sistema.
+
+### Adicionando o Maven nas variáveis de ambiente ###
+
+Para o **Windows:** <br>
+* Adicionar o local da pasta extraída do Maven na variável de ambiente PATH, da seguinte forma: C:\Users\nomeusuario\Documents\apache-maven-3.8.4\bin. Adeque o diretório para que seja equivalente ao local onde foi feita a instalação do Maven (pasta do Zip extraído). Se atente também a versão do Maven, pois isso pode alterar o nome do diretório.
+
 
 ## Instalação e configuração do VSCode (Windows 10)
 
