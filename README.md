@@ -97,6 +97,12 @@ Para testar se o Java foi instalado e está funcionando corretamente no computad
 Para o **Windows:** <br>
 * Adicionar o local da pasta extraída do Maven na variável de ambiente PATH, da seguinte forma: **C:\Users\nomeusuario\Documents\apache-maven-3.8.4\bin.** Adeque o diretório para que seja equivalente ao local onde foi feita a instalação do Maven (pasta do Zip extraído). Se atente também a versão do Maven, pois isso pode alterar o nome do diretório.
 
+Para o **Mac OS**:
+* Iniciar o terminal
+* Executar o comando cd ~
+* Executar o comando vi .bash_profile
+* Acrescentar as variáveis do Maven:
+
 
 ## Instalação e configuração do VSCode (Windows 10)
 
