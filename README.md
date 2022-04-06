@@ -49,9 +49,9 @@ Agora abra novamente o **CMD** e digite:
 
 O resultado deve ser a versão do Java como no exemplo abaixo
 
-**java version "1.8.0_202" <br>
-Java(TM) SE Runtime Environment (build 1.8.0_202-b08) <br>
-Java HotSpot(TM) 64-Bit Server VM (build 25.202-b08, mixed mode)**
+**java version "18" 2022-03-22 <br>
+Java(TM) SE Runtime Environment (build 18+36-2087) <br>
+Java HotSpot(TM) 64-Bit Server VM (build 18+36-2087, mixed mode, sharing)**
 
 ## Instalação do JDK 8u65 (Mac OS)
 
