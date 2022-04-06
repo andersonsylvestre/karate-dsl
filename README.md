@@ -99,7 +99,7 @@ Para o **Windows:** <br>
 
 Para o **Mac OS**:
 * Iniciar o terminal
-* Executar o comando **cd ~**
+* Executar o comando **cd** ~
 * Executar o comando **vim .bash_profile**
 * Acrescentar as variáveis do Maven:
 
