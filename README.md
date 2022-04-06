@@ -41,7 +41,7 @@ Se caso não encontrar deve-se entrar nas variaveis de ambiente e fazer o cadast
 * Após abrir a tela da propriedade do Sistema clique no botão **Variaveis de Ambiente...**
 * Após abrir a tela de Variáveis de ambiente clique no botão novo na opção **Variáveis de sistema**
 * Após abrir a tela Nova variáveis de sistema insire o Nome da variável com **JAVA_HOME** e o valor da variável **C:\Program Files\Java\jdk1.8.0_202**
-* Após feito este procedimento clique no botão **OK**
+* Após feito este procedimento clique no botão **OK** e reinicie o computador.
 
 Agora abra novamente o **CMD** e digite:
 
