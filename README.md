@@ -16,15 +16,15 @@ Para a instalação do Karatê-Dsl estou usando uma configuração de hardware:
 * HD de um TG
 * Sistema operacional Windows 10 Pró
 
-## Instalação do JDK 8u202 (Windows 10)
+## Instalação do JDK 8 (Windows 10)
 
-Para fazer a instalação do **JDK 8u202** vá ao site da Oracle e baixe [JDK8](https://www.oracle.com/java/technologies/downloads/#jdk18-windows) e siga os seguintes passos para instalação do JDK 8.
+Para fazer a instalação do **JDK 8** vá ao site da Oracle e baixe [JDK8](https://www.oracle.com/java/technologies/downloads/#jdk18-windows) e siga os seguintes passos para instalação do JDK 8.
 
 Após baixar o JDK 8, vá com o botão direito do mouse e executa o JDK 8 como administrador.
 
-* Inicie a intalação do Java JDK 8u202
+* Inicie a intalação do Java JDK 
 * Clique no botão Next.
-* Aguarde a finalização da instalação java JDK 8u202
+* Aguarde a finalização da instalação java JDK 8
 
 Agora verifique a existencia da variavel JAVA_HOME. Abrindo o **CMD** e digitando o seguente comando:
 
@@ -32,7 +32,7 @@ Agora verifique a existencia da variavel JAVA_HOME. Abrindo o **CMD** e digitand
 
 A saida deve ser igual a esta:
 
-**C:\Program Files\Java\jdk1.8.0_202**
+**C:\Program Files\Java\jdk-18**
 
 Se caso não encontrar deve-se entrar nas variaveis de ambiente e fazer o cadastro exemplo:
 
@@ -40,7 +40,7 @@ Se caso não encontrar deve-se entrar nas variaveis de ambiente e fazer o cadast
 * No lado esquerdo encontra-se link **Configurações avançadas** do sistema clique nesta opção
 * Após abrir a tela da propriedade do Sistema clique no botão **Variaveis de Ambiente...**
 * Após abrir a tela de Variáveis de ambiente clique no botão novo na opção **Variáveis de sistema**
-* Após abrir a tela Nova variáveis de sistema insire o Nome da variável com **JAVA_HOME** e o valor da variável **C:\Program Files\Java\jdk1.8.0_202**
+* Após abrir a tela Nova variáveis de sistema insire o Nome da variável com **JAVA_HOME** e o valor da variável **C:\Program Files\Java\jdk-18**
 * Após feito este procedimento clique no botão **OK** e reinicie o computador.
 
 Agora abra novamente o **CMD** e digite:
@@ -53,7 +53,7 @@ O resultado deve ser a versão do Java como no exemplo abaixo
 Java(TM) SE Runtime Environment (build 1.8.0_202-b08) <br>
 Java HotSpot(TM) 64-Bit Server VM (build 25.202-b08, mixed mode)**
 
-## Instalação do JDK 8u202 (Mac OS)
+## Instalação do JDK 8u65 (Mac OS)
 
 Para fazer a instalação do **JDK 8u65** vá ao site da Oracle e baixe [JDK8](https://www.oracle.com/java/technologies/downloads/#jdk18-mac) e siga os seguintes passos para instalação do JDK 8u65.
 
