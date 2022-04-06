@@ -76,7 +76,7 @@ Para testar se o Java foi instalado e está funcionando corretamente no computad
 ### Configurando as variaveis de ambiente ###
 
 * Iniciar o terminal
-* Executar o comando **cd ~**
+* Executar o comando **cd** ~
 * Executar o comando vim **.bash_profile**
 * Ativar o modo de edição de texto teclando a letra **i**
 * Editar o arquivo para configurar as variáveis de ambiente. O arquivo deverá ficar da seguinte forma:
