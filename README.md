@@ -116,7 +116,7 @@ Configurando a variavel de ambiente
 * Após abrir a tela da propriedade do Sistema clique no botão **Variaveis de Ambiente...**
 * Após abrir a tela de Variáveis de ambiente clique no botão novo na opção **Variáveis de sistema**
 * Agora clique no botão **Novo** em Variáveis de usuário para <user> e de um duplo clique na opção Path.
-* Após abrir a tela Editar a variável de ambiente clique no botão **Novo** e informe o caminho **C:\Users\nomeusuario\Documents\apache-maven-3.8.4\bin** e clique no botão **OK** e feche a tela de variaveis de ambiente.
+* Após abrir a tela Editar a variável de ambiente clique no botão **Novo** e informe o caminho **C:\Users\nomeusuario\Documents\apache-maven-3.8.4** e clique no botão **OK** e feche a tela de variaveis de ambiente.
   
 Após o termino da configuração reinicie o **CMD** e execute o seguinte comando.
 
