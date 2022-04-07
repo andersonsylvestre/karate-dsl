@@ -65,7 +65,7 @@ Agora vamos configurar a variavel de ambiente com **"%JAVA_HOME%"\bin**
 * Agora clique no botão **Novo** em Variáveis de usuário para <user> e de um duplo clique na opção Path.
 * Após abrir a tela Editar a variável de ambiente clique no botão **Novo** e informe o caminho **%JAVA_HOME%\bin** e clique no botão **OK** e feche a tela de variaveis de ambiente.
 
-## Instalação do JDK 8u65 (Mac OS)
+## Instalação do JDK 8u65 (Mac OS) ##
 
 Para fazer a instalação do **JDK 8u65** vá ao site da Oracle e baixe [JDK8](https://www.oracle.com/java/technologies/downloads/#jdk18-mac) e siga os seguintes passos para instalação do JDK 8u65.
 
@@ -117,6 +117,10 @@ Configurando a variavel de ambiente
 * Após abrir a tela de Variáveis de ambiente clique no botão novo na opção **Variáveis de sistema**
 * Agora clique no botão **Novo** em Variáveis de usuário para <user> e de um duplo clique na opção Path.
 * Após abrir a tela Editar a variável de ambiente clique no botão **Novo** e informe o caminho **C:\Users\nomeusuario\Documents\apache-maven-3.8.4\bin** e clique no botão **OK** e feche a tela de variaveis de ambiente.
+  
+Após o termino da configuração reinicie o **CMD** e execute o seguinte comando.
+
+**nvm version**
 
 Para o **Mac OS**:
 * Iniciar o terminal
