@@ -120,7 +120,7 @@ Configurando a variavel de ambiente
   
 Após o termino da configuração reinicie o **CMD** e execute o seguinte comando.
 
-**C:'\'> mvn --version**
+**mvn --version**
 
 Para o **Mac OS**:
 * Iniciar o terminal
