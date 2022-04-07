@@ -108,6 +108,15 @@ Para testar se o Java foi instalado e está funcionando corretamente no computad
 
 Para o **Windows:** <br>
 * Adicionar o local da pasta extraída do Maven na variável de ambiente PATH, da seguinte forma: **C:\Users\nomeusuario\Documents\apache-maven-3.8.4\bin.** Adeque o diretório para que seja equivalente ao local onde foi feita a instalação do Maven (pasta do Zip extraído). Se atente também a versão do Maven, pois isso pode alterar o nome do diretório.
+  
+Configurando a variavel de ambiente
+  
+* Vá com o botão direito do mouse em **Este Computador** e clique em propriedades
+* No lado esquerdo encontra-se link **Configurações avançadas** do sistema clique nesta opção
+* Após abrir a tela da propriedade do Sistema clique no botão **Variaveis de Ambiente...**
+* Após abrir a tela de Variáveis de ambiente clique no botão novo na opção **Variáveis de sistema**
+* Agora clique no botão **Novo** em Variáveis de usuário para <user> e de um duplo clique na opção Path.
+* Após abrir a tela Editar a variável de ambiente clique no botão **Novo** e informe o caminho **C:\Users\nomeusuario\Documents\apache-maven-3.8.4\bin** e clique no botão **OK** e feche a tela de variaveis de ambiente.
 
 Para o **Mac OS**:
 * Iniciar o terminal
