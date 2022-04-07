@@ -63,7 +63,7 @@ Agora vamos configurar a variavel de ambiente com **"%JAVA_HOME%"\bin**
 * Após abrir a tela da propriedade do Sistema clique no botão **Variaveis de Ambiente...**
 * Após abrir a tela de Variáveis de ambiente clique no botão novo na opção **Variáveis de sistema**
 * Agora clique no botão **Novo** em Variáveis de usuário para <user> e de um duplo clique na opção Path.
-* Após abrir a tela Editar a variável de ambiente clique no botão **Novo** e informe o caminho **%JAVA_HOME%\BIN** e clique no botão **OK** e feche a tela de variaveis de ambiente.
+* Após abrir a tela Editar a variável de ambiente clique no botão **Novo** e informe o caminho **%JAVA_HOME%\bin** e clique no botão **OK** e feche a tela de variaveis de ambiente.
 
 ## Instalação do JDK 8u65 (Mac OS)
 
