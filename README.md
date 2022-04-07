@@ -55,6 +55,16 @@ O resultado deve ser a versão do Java como no exemplo abaixo
 Java(TM) SE Runtime Environment (build 18+36-2087) <br>
 Java HotSpot(TM) 64-Bit Server VM (build 18+36-2087, mixed mode, sharing)**
 
+Agora vamos configurar a variavel de ambiente com **"%JAVA_HOME%"\bin**
+
+
+* Vá com o botão direito do mouse em **Este Computador** e clique em propriedades
+* No lado esquerdo encontra-se link **Configurações avançadas** do sistema clique nesta opção
+* Após abrir a tela da propriedade do Sistema clique no botão **Variaveis de Ambiente...**
+* Após abrir a tela de Variáveis de ambiente clique no botão novo na opção **Variáveis de sistema**
+* Agora clique no botão **Novo** em Variáveis de usuário para <user> e de um duplo clique na opção Path.
+* Após abrir a tela Editar a variável de ambiente clique no botão **Novo** e informe o caminho **%JAVA_HOME%\BIN** e clique no botão **OK** e feche a tela de variaveis de ambiente.
+
 ## Instalação do JDK 8u65 (Mac OS)
 
 Para fazer a instalação do **JDK 8u65** vá ao site da Oracle e baixe [JDK8](https://www.oracle.com/java/technologies/downloads/#jdk18-mac) e siga os seguintes passos para instalação do JDK 8u65.
