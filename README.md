@@ -197,7 +197,7 @@ Para instalar e configurar o Karatê-DSL e nessa entrar no projeto do [Karatê-D
 ```  
   
   
- Abra o **VSCode**, dentro do VSCode abra o terminal se atente para alterar para de **powershell** para o **cmd** e execute o comando acima.
+ Abra o **VSCode**, E dentro do VSCode abra o terminal se atente para alterar de **powershell** para o **cmd** e execute o comando acima.
 
   ```
   INFO] Scanning for projects...
