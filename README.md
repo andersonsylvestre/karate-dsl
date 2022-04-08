@@ -30,8 +30,9 @@ Após baixar o JDK 8, vá com o botão direito do mouse e executa o JDK 8 como a
 ### Variaveis de ambiente no windows ###
 
 Agora verifique a existência da variavel **JAVA_HOME**. Abrindo o **CMD** e digitando o seguente comando:
-
-**echo %JAVA_HOME%**
+```
+C:\> echo %JAVA_HOME%
+```
 
 A saida deve ser igual a esta:
 
