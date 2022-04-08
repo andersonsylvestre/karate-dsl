@@ -179,3 +179,20 @@ Para instalar e configurar o Karatê-DSL e nessa entrar no projeto do [Karatê-D
 -DgroupId=com.mycompany \
 -DartifactId=myproject
 ```
+
+ Os paramentros que é aconselhavel alteração **DgroupId** colocar o nome da empresa, e **DartifactId** e este parametro colocar o nome do projeto exemplo **projetoKarate**
+
+``Com alteração``
+```
+ mvn archetype:generate \
+-DarchetypeGroupId=com.intuit.karate \
+-DarchetypeArtifactId=karate-archetype \
+-DarchetypeVersion=1.1.0 \
+-DgroupId=com.nomedaempresa \
+-DartifactId=projetoKarate  
+```  
+  
+  
+ Abra o **VSCode**, dentro do VSCode abra o terminal se atente para alterar para de **powershell** para o **cmd** e execute o comando acima.
+
+  
