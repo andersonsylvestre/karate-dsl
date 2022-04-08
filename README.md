@@ -234,3 +234,13 @@ INFO] Scanning for projects...
 [INFO] Using property: artifactId = projetokarate
 Define value for property 'version' 1.0-SNAPSHOT: :1.0
 ```
+                                                                                                            
+```
+                                                                                                            [INFO] Using property: package = com.nomedaempresa
+Confirm properties configuration:
+groupId: com.nomedaempresa
+artifactId: projetokarate
+version: 1.0
+package: com.nomedaempresa
+ Y: :
+```
