@@ -14,7 +14,7 @@ Para a instalação do Karatê-Dsl estou usando uma configuração de hardware:
 
 * Processador Intel Core I5 7ª Geração
 * Memória de 16 GigaBits
-* HD de um TG
+* HD de um 1TG
 * Sistema operacional Windows 10 Pró
 
 ## Instalação do JDK 8 (Windows 10)
