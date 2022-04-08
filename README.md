@@ -265,16 +265,16 @@ package: com.nomedaempresa
                                                                                                             
 Após a instalação o projeto do Karatê-DSL a estrutura do projeto vai ficar assim:
 ```
-1. Pasta principal <projetokarate>
-2. Subpasta com o nome <src\test\java>
-3. Subpasta com o nome <examples>
-4. Subpasta com o nome <users>
-5. Arquivo com o nome <users.feature>
-6. Arquivo com o nome <UsersRunner.Java>
-7. Arquivo com o nome <ExamplesTest.java>
-8. Arquivo com o nome <karate-config.js>
-9. Arquivo com o nome <logback-test.xml>
-10.Arquivo com o nome <pom.xml> 
+projetokarate
+|--> src\test\java
+|     |-->examples
+|     |   |-->users
+|     |   |    |-->users.feature
+|     |   |    |-->UsersRunner.java
+|     |   |-->ExamplesTest.java
+|     |--> Karate-config.js
+|     |--> logback-test.xml
+|--> pom.xml
 ```  
                                                                                                            
 
