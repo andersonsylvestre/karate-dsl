@@ -182,7 +182,7 @@ Para instalar e configurar o Karatê-DSL e nessa entrar no projeto do [Karatê-D
 
  Os paramentros que é aconselhavel alteração **DgroupId** colocar o nome da empresa, e **DartifactId** e este parametro colocar o nome do projeto exemplo **projetoKarate**
 
-``Com alteração``
+**Com alteração**
 ```
  mvn archetype:generate \
 -DarchetypeGroupId=com.intuit.karate \
