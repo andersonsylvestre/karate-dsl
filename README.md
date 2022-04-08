@@ -31,12 +31,13 @@ Após baixar o JDK 8, vá com o botão direito do mouse e executa o JDK 8 como a
 
 Agora verifique a existência da variavel **JAVA_HOME**. Abrindo o **CMD** e digitando o seguente comando:
 ```
-C:\> echo %JAVA_HOME%
+echo %JAVA_HOME%
 ```
 
 A saida deve ser igual a esta:
-
-**C:\Program Files\Java\jdk-18**
+```
+C:\Program Files\Java\jdk-18
+```
 
 Se caso não encontrar deve-se entrar nas variaveis de ambiente e fazer o cadastro exemplo:
 
@@ -48,8 +49,9 @@ Se caso não encontrar deve-se entrar nas variaveis de ambiente e fazer o cadast
 * Após feito este procedimento clique no botão **OK** e reinicie o computador.
 
 Agora abra novamente o **CMD** e digite:
-
-**"%JAVA_HOME%"\bin\java -version**
+```
+"%JAVA_HOME%"\bin\java -version
+```
 
 O resultado deve ser a versão do Java como no exemplo abaixo
 
@@ -95,8 +97,8 @@ Para testar se o Java foi instalado e está funcionando corretamente no computad
 * Ativar o modo de edição de texto teclando a letra **i**
 * Editar o arquivo para configurar as variáveis de ambiente. O arquivo deverá ficar da seguinte forma:
 
-&#160; **export JAVA_HOME=`/usr/libexec/java_home`** <br>
-&#160; **export PATH=$JAVA_HOME/bin:$PATH**
+**export JAVA_HOME=`/usr/libexec/java_home`** <br>
+**export PATH=$JAVA_HOME/bin:$PATH**
 
 * Sair do modo de edição teclando ESC
 * Salvar o arquivo teclando :wq e pressionando enter
