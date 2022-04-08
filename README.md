@@ -260,7 +260,7 @@ package: com.nomedaempresa
 ### Estruturas de pastas ###                                                                                                 
                                                                                                             
 Após a instalação o projeto do Karatê-DSL a estrutura do projeto vai ficar assim:
-
+```
 * Pasta principal **<projetokarate>**
 * Subpasta com o nome **<src\test\java>**
 * Subpasta com o nome **<examples>**
@@ -270,7 +270,8 @@ Após a instalação o projeto do Karatê-DSL a estrutura do projeto vai ficar a
 * Arquivo com o nome **<ExamplesTest.java>**
 * Arquivo com o nome **<karate-config.js>**
 * Arquivo com o nome **<logback-test.xml>**
-* Arquivo com o nome **<pom.xml>**                                                                                                            
+* Arquivo com o nome **<pom.xml>** 
+```  
                                                                                                            
 
 
