@@ -3,10 +3,10 @@ O Karatê-DSL é uma ferramenta desenvolvida em Java que permite o desenvolvimen
 
 ## O que vamos usar ##
 
-* Java SE Development Kit 8u202
+* Java SE Development Kit 8
 * Maven
 * VSCode
-* Karatê
+* Karatê-DSL
 
 ## Requisitos de hardware ##
 
