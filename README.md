@@ -171,11 +171,11 @@ Abra o VSCode instale o seguintes plugins
   
 Para instalar e configurar o Karatê-DSL e nessa entrar no projeto do [Karatê-DSL](https://github.com/karatelabs/karate#quickstart) e pegar o comando de instalação do **Maven** que é igual a este, pode ser que mude a versão.
  
-´´´ 
+``` 
  mvn archetype:generate \
 -DarchetypeGroupId=com.intuit.karate \
 -DarchetypeArtifactId=karate-archetype \
 -DarchetypeVersion=1.1.0 \
 -DgroupId=com.mycompany \
 -DartifactId=myproject
-´´´
+```
