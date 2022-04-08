@@ -214,4 +214,5 @@ Para instalar e configurar o Karatê-DSL e nessa entrar no projeto do [Karatê-D
 [INFO] Using property: artifactId = projetokarate
 Define value for property 'version' 1.0-SNAPSHOT: :
 ```
-  
+Na opção version 1.0-SNAPSHOT informe o numero da versão **exemplo: 1.0**                                                                                                            
+                                                                                                            
