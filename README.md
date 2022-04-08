@@ -234,7 +234,7 @@ INFO] Scanning for projects...
 [INFO] Using property: artifactId = projetokarate
 Define value for property 'version' 1.0-SNAPSHOT: :1.0
 ```
-Após informar a versão deve se confirmar as alterações informando a letra **y** e clique no botão 
+Após informar a versão deve se confirmar as alterações informando a letra **y** e clique no botão **Enter**
                                                                                                             
 ```                                                                                                            
 [INFO] Using property: package = com.nomedaempresa
