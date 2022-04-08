@@ -256,3 +256,5 @@ version: 1.0
 package: com.nomedaempresa
  Y: :y
 ```
+
+### Estruturas de pastas ###                                                                                                            
