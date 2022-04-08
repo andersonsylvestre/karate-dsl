@@ -215,4 +215,22 @@ Para instalar e configurar o Karatê-DSL e nessa entrar no projeto do [Karatê-D
 Define value for property 'version' 1.0-SNAPSHOT: :
 ```
 Na opção version 1.0-SNAPSHOT informe o numero da versão **exemplo: 1.0**                                                                                                            
-                                                                                                            
+```
+INFO] Scanning for projects...
+[INFO] 
+[INFO] ------------------< org.apache.maven:standalone-pom >-------------------
+[INFO] Building Maven Stub Project (No POM) 1
+[INFO] --------------------------------[ pom ]---------------------------------
+[INFO] 
+[INFO] >>> maven-archetype-plugin:3.2.1:generate (default-cli) > generate-sources @ standalone-pom >>>
+[INFO] 
+[INFO] <<< maven-archetype-plugin:3.2.1:generate (default-cli) < generate-sources @ standalone-pom <<<
+[INFO]
+[INFO]
+[INFO] --- maven-archetype-plugin:3.2.1:generate (default-cli) @ standalone-pom ---
+[INFO] Generating project in Interactive mode
+[INFO] Archetype repository not defined. Using the one from [com.intuit.karate:karate-archetype:1.1.0] found in catalog remote
+[INFO] Using property: groupId = com.nomedaempresa
+[INFO] Using property: artifactId = projetokarate
+Define value for property 'version' 1.0-SNAPSHOT: :1.0
+```
