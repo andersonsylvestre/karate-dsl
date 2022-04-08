@@ -214,7 +214,7 @@ Para instalar e configurar o Karatê-DSL e nessa entrar no projeto do [Karatê-D
 [INFO] Using property: artifactId = projetokarate
 Define value for property 'version' 1.0-SNAPSHOT: :
 ```
-Na opção version 1.0-SNAPSHOT informe o numero da versão **exemplo: 1.0**                                                                                                            
+Na opção version 1.0-SNAPSHOT informe o numero da versão **exemplo: 1.0** e clique no botão **Enter**                                                                                                           
 ```
 INFO] Scanning for projects...
 [INFO] 
@@ -234,9 +234,10 @@ INFO] Scanning for projects...
 [INFO] Using property: artifactId = projetokarate
 Define value for property 'version' 1.0-SNAPSHOT: :1.0
 ```
-Após informar a versão deve se confirmar as alterações informando a letra **y**
+Após informar a versão deve se confirmar as alterações informando a letra **y** e clique no botão 
                                                                                                             
-```                                                                                                            [INFO] Using property: package = com.nomedaempresa
+```                                                                                                            
+[INFO] Using property: package = com.nomedaempresa
 Confirm properties configuration:
 groupId: com.nomedaempresa
 artifactId: projetokarate
