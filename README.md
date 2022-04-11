@@ -100,13 +100,13 @@ Para testar se o Java foi instalado e está funcionando corretamente no computad
 
 ## Baixando e configurando o Maven ##
 
-* Baixar a versão binária zipada do Maven (-bin.zip). [Download Maven](https://maven.apache.org/download.cgi)
+* Baixar a versão binária zipada do Maven **Binary zip archive** (-bin.zip). [Download Maven](https://maven.apache.org/download.cgi) apartir da versão 3.8.5.
 * Extrair o zip baixado em alguma pasta de sua preferência. Sugestão: Pasta Documents do seu usuário no sistema.
 
 ### Adicionando o Maven nas variáveis de ambiente ###
 
 Para o **Windows:** <br>
-* Adicionar o local da pasta extraída do Maven na variável de ambiente PATH, da seguinte forma: **C:\Users\nomeusuario\Documents\apache-maven-3.8.4** Adeque o diretório para que seja equivalente ao local onde foi feita a instalação do Maven (pasta do Zip extraído). Se atente também a versão do Maven, pois isso pode alterar o nome do diretório.
+* Adicionar o local da pasta extraída do Maven na variável de ambiente PATH, da seguinte forma exemplo: **C:\projeto\apache-maven-3.8.5\bin** Adeque o diretório para que seja equivalente ao local onde foi feita a instalação do Maven (pasta do Zip extraído). Se atente também a versão do Maven, pois isso pode alterar o nome do diretório.
   
 Configurando a variavel de ambiente
   
@@ -115,7 +115,7 @@ Configurando a variavel de ambiente
 * Após abrir a tela da propriedade do Sistema clique no botão **Variaveis de Ambiente...**
 * Após abrir a tela de Variáveis de ambiente clique no botão novo na opção **Variáveis de sistema**
 * Agora clique no botão **Novo** em Variáveis de usuário para <user> e de um duplo clique na opção Path.
-* Após abrir a tela Editar a variável de ambiente clique no botão **Novo** e informe o caminho **C:\Users\nomeusuario\Documents\apache-maven-3.8.4** e clique no botão **OK** e feche a tela de variaveis de ambiente.
+* Após abrir a tela Editar a variável de ambiente clique no botão **Novo** e informe o caminho **C:\projeto\apache-maven-3.8.5\bin** e clique no botão **OK** e feche a tela de variaveis de ambiente.
   
 Após o termino da configuração reinicie o **CMD** e execute o seguinte comando.
 
