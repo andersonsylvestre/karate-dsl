@@ -35,6 +35,12 @@ Agora abra o terminal e digite o seguinte comando para ver se o Java foi instala
 java -version
 ```
 
+O resultado deve ser:
+
+**openjdk version "1.8.0_322"** <br>
+**OpenJDK Runtime Environment (Zulu 8.60.0.21-CA-win64) (build 1.8.0_322-b06)** <br>
+**OpenJDK 64-Bit Server VM (Zulu 8.60.0.21-CA-win64) (build 25.322-b06, mixed mode)**
+
 ### Variaveis de ambiente no windows ###
 
 Agora verifique a existência da variavel **JAVA_HOME**. Abrindo o **CMD** e digitando o seguente comando:
