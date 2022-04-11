@@ -49,39 +49,19 @@ echo %JAVA_HOME%
 ```
 
 A saida deve ser igual a esta:
-```
-C:\Program Files\Java\jdk-18
-```
+
+**C:\Program Files\Zulu\zulu-8\**
+
 
 Se caso não encontrar deve-se entrar nas variaveis de ambiente e fazer o cadastro exemplo:
 
-* Vá com o botão direito do mouse em **Este Computador** e clique em propriedades
-* No lado esquerdo encontra-se link **Configurações avançadas** do sistema clique nesta opção
-* Após abrir a tela da propriedade do Sistema clique no botão **Variaveis de Ambiente...**
-* Após abrir a tela de Variáveis de ambiente clique no botão novo na opção **Variáveis de sistema**
-* Após abrir a tela Nova variáveis de sistema insire o Nome da variável com **JAVA_HOME** e o valor da variável **C:\Program Files\Java\jdk-18**
+* Vá com o botão direito do mouse em **Este Computador** e clique em "propriedades"
+* No lado direito encontra-se link **Configurações avançadas** do sistema clique nesta opção
+* Após abrir a "tela da propriedade" do Sistema clique no botão **"Variaveis de Ambiente..."**
+* Após abrir a "tela de Variáveis de ambiente" clique no "botão Novo" na opção **Variáveis de sistema**
+* Após abrir a "tela nova variáveis de sistema" insira o nome da variável com **JAVA_HOME** e o valor da variável **C:\Program Files\Zulu\zulu-8\**
 * Após feito este procedimento clique no botão **OK** e reinicie o computador.
 
-Agora abra novamente o **CMD** e digite:
-```
-"%JAVA_HOME%"\bin\java -version
-```
-
-O resultado deve ser a versão do Java como no exemplo abaixo
-
-**java version "18" 2022-03-22 <br>
-Java(TM) SE Runtime Environment (build 18+36-2087) <br>
-Java HotSpot(TM) 64-Bit Server VM (build 18+36-2087, mixed mode, sharing)**
-
-Agora vamos configurar a variavel de ambiente com **"%JAVA_HOME%"\bin**
-
-
-* Vá com o botão direito do mouse em **Este Computador** e clique em propriedades
-* Encotre a opção **Configurações avançadas** do sistema clique nesta opção
-* Após abrir a tela da propriedade do Sistema clique no botão **Variaveis de Ambiente...**
-* Após abrir a tela de Variáveis de ambiente clique no botão novo na opção **Variáveis de sistema**
-* Agora clique no botão **Novo** em Variáveis de usuário para <user> e de um duplo clique na opção Path.
-* Após abrir a tela Editar a variável de ambiente clique no botão **Novo** e informe o caminho **%JAVA_HOME%\bin** e clique no botão **OK** e feche a tela de variaveis de ambiente.
 
 ## Instalação do JDK 8u65 (Mac OS) ##
 
