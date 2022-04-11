@@ -4,13 +4,13 @@ O Karatê-DSL é uma ferramenta desenvolvida em Java que permite o desenvolvimen
 ## O que vamos usar ##
 
 * Java SE Development Kit 8
-* Maven
+* Maven apartir da versão 3.8.5
 * VSCode
 * Karatê-DSL
 
 ## Requisitos de hardware ##
 
-Para a instalação do Karatê-Dsl estou usando uma configuração de hardware:
+Configuração minima de hardware para instalação do Karatê-DSL:
 
 * Processador Intel Core I5 7ª Geração
 * Memória de 16 GigaBits
