@@ -228,7 +228,7 @@ projetokarate
 |--> pom.xml
 ```  
 
-### Explicando a estrutura do projeto Karatê. ###
+#### Explicando a estrutura do projeto Karatê. ####
 
 **projetokarate** --> é o nome da pasta do projeto. <br>
 **src\test\java** --> Esta pasta é onde se escrevem os testes(Estrutura padrao do Java). <br>
