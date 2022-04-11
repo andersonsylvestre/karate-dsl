@@ -21,11 +21,19 @@ Configuração minima de hardware para instalação do Karatê-DSL:
 
 Para fazer a instalação do **JDK 8** vá ao site da Oracle e baixe [JDK8](https://www.azul.com/downloads/?package=jdk#download-openjdk) e procure a versão **8u322b06** para o Windows na arquitetura x86 64 bits e baixe **.MSI** siga os seguintes passos para instalação do JDK 8.
 
-Após baixar o JDK 8, vá com o botão direito do mouse e executa o JDK 8 como administrador.
+Após baixar o **zulu8.60.0.21-ca-jdk8.0.322-win_x64**, vá com o botão direito do mouse e executa como administrador.
 
-* Inicie a intalação do Java JDK 
-* Clique no botão Next.
-* Aguarde a finalização da instalação java JDK 8
+* Na inicialização altere a configuração para setar o **JAVA_HOME** nas varialveis de ambiente.
+* Também altere a configuração **JavaSoft** para registrar o Java na Oracle.
+* Agora clique no botão **"Next"**.
+* Clique no botão **"Install"**.
+* Aguarde a finalização da instalação java zulu8.60.0.21-ca-jdk8.0.322-win_x64.
+* Após a instalação clique no botão **"Finish"**.
+
+Agora abra o terminal e digite o seguinte comando para ver se o Java foi instalado.
+```
+java -version
+```
 
 ### Variaveis de ambiente no windows ###
 
