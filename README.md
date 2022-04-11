@@ -171,15 +171,15 @@ Exemplo:
 ```
 Atenção
 Ideal que seja alterado os parametros e executado no terminal dentro do VSCode <br>
-**DgroupId** colocar o nome da empresa. <br>
-**DartifactId** e este parametro colocar o nome do projeto exemplo **projetoKarate**  <br>
+**DgroupId**: colocar o nome da empresa. <br>
+**DartifactId**: e este parametro colocar o nome do projeto exemplo **projetoKarate**  <br>
 
 **Exemplo com alteração**
 ```
  mvn archetype:generate -DarchetypeGroupId=com.intuit.karate -DarchetypeArtifactId=karate-archetype -DarchetypeVersion=1.1.0 -DgroupId=com.nomedaempresa -DartifactId=projetoKarate
 ```  
 **Exemplo após execução do comando** <br>
-No término da execução apresentará a opção **SNAPSHOT:** será necessário determinarmos número inical da versão do projeto, ex: 1.0 e clicarmos no botão **Enter**                                                                                                          
+No término da execução apresentará a opção **SNAPSHOT:** onde será necessário determinarmos número inical da versão do projeto, ex: 1.0 e clicarmos no botão **Enter**                                                                                                          
 ```
 INFO] Scanning for projects...
 [INFO] 
