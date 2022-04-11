@@ -169,7 +169,7 @@ Exemplo:
  mvn archetype:generate -DarchetypeGroupId=com.intuit.karate -DarchetypeArtifactId=karate-archetype -DarchetypeVersion=1.1.0 -DgroupId=com.mycompany -DartifactId=myproject
  
 ```
-Atenção
+**Atenção** <br>
 Ideal que seja alterado os parametros e executado no terminal dentro do VSCode <br>
 **DgroupId**: Colocar o nome da empresa. <br>
 **DartifactId**: Colocar o nome do projeto exemplo **projetoKarate**  <br>
