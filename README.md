@@ -41,8 +41,9 @@ echo %JAVA_HOME%
 ```
 
 A saida deve ser igual a esta:
-
-**C:\Program Files\Zulu\zulu-8\**
+```
+C:\Program Files\Zulu\zulu-8\
+```
 
 
 Se caso não encontrar deve-se entrar nas variaveis de ambiente e fazer o cadastro exemplo:
