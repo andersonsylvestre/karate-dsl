@@ -21,13 +21,13 @@ Após baixar o **zulu8.60.0.21-ca-jdk8.0.322-win_x64**, vá com o botão direito
 * Aguarde a finalização da instalação java zulu8.60.0.21-ca-jdk8.0.322-win_x64.
 * Após a instalação clique no botão **"Finish"**.
 
-Agora abra o terminal e digite o seguinte comando para ver se o Java foi instalado.
+Agora abra o terminal e digite o comando a baixo para ver se o Java foi instalado e sua versão.
 
 ```
 java -version
 ```
 
-O resultado deve ser:
+O resultado do comando:
 
 **openjdk version "1.8.0_322"** <br>
 **OpenJDK Runtime Environment (Zulu 8.60.0.21-CA-win64) (build 1.8.0_322-b06)** <br>
