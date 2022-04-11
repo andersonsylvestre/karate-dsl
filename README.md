@@ -52,7 +52,7 @@ Se caso não encontrar deve-se entrar nas variaveis de ambiente e fazer o cadast
 * Procure por **Configurações avançadas** do sistema clique nesta opção
 * Após abrir a "tela da propriedade" do Sistema clique no botão **"Variaveis de Ambiente..."**
 * Após abrir a "tela de Variáveis de ambiente" clique no botão *"Novo"* na opção **Variáveis de sistema**
-* Após abrir a "tela nova variáveis de sistema" insira o nome da variável com **JAVA_HOME** e o valor da variável **C:\Program Files\Zulu\zulu-8\**
+* Após abrir a "tela nova variáveis de sistema" insira o nome da variável como **JAVA_HOME** e o valor da variável  **C:\Program Files\Zulu\zulu-8\**
 * Após feito este procedimento clique no botão **OK** e reinicie o computador.
 
 
@@ -92,8 +92,8 @@ Para testar se o Java foi instalado e está funcionando corretamente no computad
 
 ## Baixando e configurando o Maven ##
 
-* Baixar a versão binária zipada do Maven **Binary zip archive** (-bin.zip). [Download Maven](https://maven.apache.org/download.cgi) apartir da versão 3.8.5.
-* Extrair o zip baixado em alguma pasta de sua preferência. Sugestão: Pasta Documents do seu usuário no sistema.
+* Baixar a versão binária zipada do Maven **Binary zip archive** (-bin.zip). [Download Maven](https://maven.apache.org/download.cgi) apartir da versão apache-maven-3.8.5-bin.zip.
+* Extrair o zip baixado em alguma pasta de sua preferência. Sugestão: Pasta onde deseja criar o seu projeto.
 
 ### Adicionando o Maven nas variáveis de ambiente ###
 
