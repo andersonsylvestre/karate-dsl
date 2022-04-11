@@ -101,7 +101,7 @@ Para testar se o Java foi instalado e está funcionando corretamente no computad
 ## Baixando e configurando o Maven ##
 
 * Baixar a versão binária zipada do Maven **Binary zip archive** (-bin.zip). [Download Maven](https://maven.apache.org/download.cgi) apartir da versão 3.8.5.
-* Extrair o zip baixado em alguma pasta de sua preferência. Sugestão: Pasta Documents do seu usuário no sistema.
+* Extrair o zip baixado em alguma pasta de sua preferência. **Sugestão: Pasta Documents do seu usuário no sistema.**
 
 ### Adicionando o Maven nas variáveis de ambiente ###
 
