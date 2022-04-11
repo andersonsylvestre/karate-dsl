@@ -63,7 +63,7 @@ Agora vamos configurar a variavel de ambiente com **"%JAVA_HOME%"\bin**
 
 
 * Vá com o botão direito do mouse em **Este Computador** e clique em propriedades
-* No lado esquerdo encontra-se link **Configurações avançadas** do sistema clique nesta opção
+* Encotre a opção **Configurações avançadas** do sistema clique nesta opção
 * Após abrir a tela da propriedade do Sistema clique no botão **Variaveis de Ambiente...**
 * Após abrir a tela de Variáveis de ambiente clique no botão novo na opção **Variáveis de sistema**
 * Agora clique no botão **Novo** em Variáveis de usuário para <user> e de um duplo clique na opção Path.
