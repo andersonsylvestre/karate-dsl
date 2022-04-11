@@ -171,8 +171,8 @@ Exemplo:
 ```
 Atenção
 Ideal que seja alterado os parametros e executado no terminal dentro do VSCode <br>
-**DgroupId**: colocar o nome da empresa. <br>
-**DartifactId**: e este parametro colocar o nome do projeto exemplo **projetoKarate**  <br>
+**DgroupId**: Colocar o nome da empresa. <br>
+**DartifactId**: Colocar o nome do projeto exemplo **projetoKarate**  <br>
 
 **Exemplo com alteração**
 ```
