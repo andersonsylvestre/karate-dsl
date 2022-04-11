@@ -19,7 +19,7 @@ Para a instalação do Karatê-Dsl estou usando uma configuração de hardware:
 
 ## Instalação do JDK 8 (Windows 10)
 
-Para fazer a instalação do **JDK 8** vá ao site da Oracle e baixe [JDK8](https://www.oracle.com/java/technologies/downloads/#jdk18-windows) e siga os seguintes passos para instalação do JDK 8.
+Para fazer a instalação do **JDK 8** vá ao site da Oracle e baixe [JDK8](https://www.azul.com/downloads/?package=jdk#download-openjdk) e procure a versão **8u322b06** na versão x86 64 bits e baixe **.MSI** siga os seguintes passos para instalação do JDK 8.
 
 Após baixar o JDK 8, vá com o botão direito do mouse e executa o JDK 8 como administrador.
 
