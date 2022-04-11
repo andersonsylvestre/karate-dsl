@@ -228,9 +228,9 @@ projetokarate
 |--> pom.xml
 ```  
                                                                                                            
-**projetokarate** --> é o nome da pasta do projeto.
-**src\test\java** --> Esta pasta é onde se escrevem os testes(Estrutura padrao do Java).
-**examples** --> esta pasta vai ser a organização da pastas exemplos:
+**projetokarate** --> é o nome da pasta do projeto. <br>
+**src\test\java** --> Esta pasta é onde se escrevem os testes(Estrutura padrao do Java). <br>
+**examples** --> esta pasta vai ser a organização da pastas exemplos: <br>
 
 * useres
 * pix
