@@ -199,7 +199,7 @@ INFO] Scanning for projects...
 [INFO] Using property: artifactId = projetokarate
 Define value for property 'version' 1.0-SNAPSHOT: :1.0
 ```
-Após informar a versão devemos confirmar as alterações informando com a letra **y** e clique no botão **Enter**
+Após informar a versão devemos confirmar as alterações informando a letra **Y** e clicar no botão **Enter**
 
 **Exemplo:**
 ```
@@ -209,7 +209,7 @@ groupId: com.nomedaempresa
 artifactId: projetokarate
 version: 1.0
 package: com.nomedaempresa
- Y: :y
+ Y: :Y
 ```
 
 ### Estruturas de pastas ###                                                                                                 
