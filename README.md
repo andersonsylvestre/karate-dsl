@@ -160,46 +160,26 @@ Abra o VSCode instale o seguintes plugins
 
 ## Instalação e configuração do Karatê-Dsl ##
   
+Abra o **VSCode** entre na opção "Arquivo> Abrir Pasta" e dentro do VSCode abra o terminal se atente para alterar de **powershell** para o **cmd**.
+  
 Para instalar e configurar o Karatê-DSL entre no projeto do [Karatê-DSL](https://github.com/karatelabs/karate#quickstart) e pegue o comando de instalação do **Maven** <br>
-Exemplo:
- 
+Exemplo: 
+
 ``` 
  mvn archetype:generate -DarchetypeGroupId=com.intuit.karate -DarchetypeArtifactId=karate-archetype -DarchetypeVersion=1.1.0 -DgroupId=com.mycompany -DartifactId=myproject
  
 ```
 Atenção
-Ideal que seja alterado os parametros <br>
+Ideal que seja alterado os parametros e executado no terminal dentro do VSCode <br>
 **DgroupId** colocar o nome da empresa. <br>
 **DartifactId** e este parametro colocar o nome do projeto exemplo **projetoKarate**  <br>
 
 **Exemplo com alteração**
 ```
- mvn archetype:generate -DarchetypeGroupId=com.intuit.karate -DarchetypeArtifactId=karate-archetype -DarchetypeVersion=1.1.0 -**DgroupId=com.nomedaempresa** -**DartifactId=projetoKarate**
+ mvn archetype:generate -DarchetypeGroupId=com.intuit.karate -DarchetypeArtifactId=karate-archetype -DarchetypeVersion=1.1.0 -DgroupId=com.nomedaempresa -DartifactId=projetoKarate
 ```  
-  
-  
- Abra o **VSCode**, E dentro do VSCode abra o terminal se atente para alterar de **powershell** para o **cmd** e execute o comando acima.
-
-  ```
-  INFO] Scanning for projects...
-[INFO] 
-[INFO] ------------------< org.apache.maven:standalone-pom >-------------------
-[INFO] Building Maven Stub Project (No POM) 1
-[INFO] --------------------------------[ pom ]---------------------------------
-[INFO] 
-[INFO] >>> maven-archetype-plugin:3.2.1:generate (default-cli) > generate-sources @ standalone-pom >>>
-[INFO] 
-[INFO] <<< maven-archetype-plugin:3.2.1:generate (default-cli) < generate-sources @ standalone-pom <<<
-[INFO]
-[INFO]
-[INFO] --- maven-archetype-plugin:3.2.1:generate (default-cli) @ standalone-pom ---
-[INFO] Generating project in Interactive mode
-[INFO] Archetype repository not defined. Using the one from [com.intuit.karate:karate-archetype:1.1.0] found in catalog remote
-[INFO] Using property: groupId = com.nomedaempresa
-[INFO] Using property: artifactId = projetokarate
-Define value for property 'version' 1.0-SNAPSHOT: :
-```
-Na opção version 1.0-SNAPSHOT informe o numero da versão **exemplo: 1.0** e clique no botão **Enter**                                                                                                           
+**Exemplo após execução do comando** <br>
+No término da execução apresentará a opção **SNAPSHOT:** será necessário determinarmos número inical da versão do projeto, ex: 1.0 e clicarmos no botão **Enter**                                                                                                          
 ```
 INFO] Scanning for projects...
 [INFO] 
@@ -219,17 +199,7 @@ INFO] Scanning for projects...
 [INFO] Using property: artifactId = projetokarate
 Define value for property 'version' 1.0-SNAPSHOT: :1.0
 ```
-Após informar a versão deve se confirmar as alterações informando a letra **y** e clique no botão **Enter**
-                                                                                                            
-```                                                                                                            
-[INFO] Using property: package = com.nomedaempresa
-Confirm properties configuration:
-groupId: com.nomedaempresa
-artifactId: projetokarate
-version: 1.0
-package: com.nomedaempresa
- Y: :
-```
+Após informar a versão devemos confirmar as alterações informando com a letra **y** e clique no botão **Enter**
 
 **Exemplo:**
 ```
