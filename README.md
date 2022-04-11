@@ -49,9 +49,9 @@ C:\Program Files\Zulu\zulu-8\
 Se caso não encontrar deve-se entrar nas variaveis de ambiente e fazer o cadastro exemplo:
 
 * Vá com o botão direito do mouse em **Este Computador** e clique em "propriedades"
-* No lado direito encontra-se link **Configurações avançadas** do sistema clique nesta opção
+* Procure por **Configurações avançadas** do sistema clique nesta opção
 * Após abrir a "tela da propriedade" do Sistema clique no botão **"Variaveis de Ambiente..."**
-* Após abrir a "tela de Variáveis de ambiente" clique no "botão Novo" na opção **Variáveis de sistema**
+* Após abrir a "tela de Variáveis de ambiente" clique no botão *"Novo"* na opção **Variáveis de sistema**
 * Após abrir a "tela nova variáveis de sistema" insira o nome da variável com **JAVA_HOME** e o valor da variável **C:\Program Files\Zulu\zulu-8\**
 * Após feito este procedimento clique no botão **OK** e reinicie o computador.
 
