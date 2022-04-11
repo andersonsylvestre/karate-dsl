@@ -31,6 +31,7 @@ Após baixar o **zulu8.60.0.21-ca-jdk8.0.322-win_x64**, vá com o botão direito
 * Após a instalação clique no botão **"Finish"**.
 
 Agora abra o terminal e digite o seguinte comando para ver se o Java foi instalado.
+
 ```
 java -version
 ```
@@ -50,7 +51,7 @@ echo %JAVA_HOME%
 
 A saida deve ser igual a esta:
 
-** C:\Program Files\Zulu\zulu-8\ **
+**C:\Program Files\Zulu\zulu-8\**
 
 
 Se caso não encontrar deve-se entrar nas variaveis de ambiente e fazer o cadastro exemplo:
