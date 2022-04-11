@@ -94,23 +94,22 @@ Para testar se o Java foi instalado e está funcionando corretamente no computad
 
 * Baixar a versão binária zipada do Maven **Binary zip archive** (-bin.zip). [Download Maven](https://maven.apache.org/download.cgi) apartir da versão apache-maven-3.8.5-bin.zip.
 * Extrair o zip baixado em alguma pasta de sua preferência. <br>
-  Sugestão: Pasta onde deseja criar o seu projeto.
+  Sugestão: Salve o arquivo na pasta onde deseja criar o seu projeto. <br>
+  Exemplo: C:\projeto\Karate-dsl
 
 ### Adicionando o Maven nas variáveis de ambiente ###
 
 Para o **Windows:** <br>
-* Adicionar o local da pasta extraída do Maven na variável de ambiente PATH, da seguinte forma exemplo: **C:\projeto\apache-maven-3.8.5\bin** Adeque o diretório para que seja equivalente ao local onde foi feita a instalação do Maven (pasta do Zip extraído). **Se atente também a versão do Maven, pois isso pode alterar o nome do diretório**.
-  
-Configurando a variavel de ambiente
+* Após salvar o arquivo no diretório "C:\projeto\Karate-dsl" temosa que adicionar o local da pasta do Maven em variável de ambiente PATH do usuário, da seguinte forma. <br>
   
 * Vá com o botão direito do mouse em **Este Computador** e clique em propriedades
-* No lado esquerdo encontra-se link **Configurações avançadas** do sistema clique nesta opção
+* Procure pela funcionalidade **Configurações avançadas** do sistema clique nesta opção
 * Após abrir a tela da propriedade do Sistema clique no botão **Variaveis de Ambiente...**
 * Após abrir a tela de Variáveis de ambiente clique no botão novo na opção **Variáveis de sistema**
-* Agora clique no botão **Novo** em Variáveis de usuário para <user> e de um duplo clique na opção Path.
-* Após abrir a tela Editar a variável de ambiente clique no botão **Novo** e informe o caminho **C:\projeto\apache-maven-3.8.5\bin** e clique no botão **OK** e feche a tela de variaveis de ambiente.
+* Agora clique no botão **Novo** em Variáveis de usuário dê um duplo clique na opção Path.
+* Após abrir a tela **Editar a variável de ambiente** clique no botão **Novo** e informe o caminho **C:\projeto\Karate-dsl\apache-maven-3.8.5\bin** e clique no botão **OK** e feche a tela de variaveis de ambiente.
   
-Após o termino da configuração reinicie o **CMD** e execute o seguinte comando.
+Após o termino da configuração reinicie o **CMD** e execute o seguinte comando, para sabermos se está em funcionamento.
 
 **mvn --version**
 
@@ -156,32 +155,26 @@ Abra o VSCode instale o seguintes plugins
 * Cucumber(Gherkin)
 * Language Support for Java
 * Maven for Java
-* VSCode-icons
-* Hyper Term Theme
+* VSCode-icons - opcional
+* Hyper Term Theme - opcional
 
 ## Instalação e configuração do Karatê-Dsl ##
   
-Para instalar e configurar o Karatê-DSL e nessa entrar no projeto do [Karatê-DSL](https://github.com/karatelabs/karate#quickstart) e pegar o comando de instalação do **Maven** que é igual a este, pode ser que mude a versão.
+Para instalar e configurar o Karatê-DSL entre no projeto do [Karatê-DSL](https://github.com/karatelabs/karate#quickstart) e pegue o comando de instalação do **Maven** <br>
+Exemplo:
  
 ``` 
- mvn archetype:generate \
--DarchetypeGroupId=com.intuit.karate \
--DarchetypeArtifactId=karate-archetype \
--DarchetypeVersion=1.1.0 \
--DgroupId=com.mycompany \
--DartifactId=myproject
+ mvn archetype:generate -DarchetypeGroupId=com.intuit.karate -DarchetypeArtifactId=karate-archetype -DarchetypeVersion=1.1.0 -DgroupId=com.mycompany -DartifactId=myproject
+ 
 ```
+Atenção
+Ideal que seja alterado os parametros <br>
+**DgroupId** colocar o nome da empresa. <br>
+**DartifactId** e este parametro colocar o nome do projeto exemplo **projetoKarate**  <br>
 
- Os paramentros que é aconselhavel alteração **DgroupId** colocar o nome da empresa, e **DartifactId** e este parametro colocar o nome do projeto exemplo **projetoKarate**
-
-**Com alteração**
+**Exemplo com alteração**
 ```
- mvn archetype:generate \
--DarchetypeGroupId=com.intuit.karate \
--DarchetypeArtifactId=karate-archetype \
--DarchetypeVersion=1.1.0 \
--DgroupId=com.nomedaempresa \
--DartifactId=projetoKarate  
+ mvn archetype:generate -DarchetypeGroupId=com.intuit.karate -DarchetypeArtifactId=karate-archetype -DarchetypeVersion=1.1.0 -**DgroupId=com.nomedaempresa** -**DartifactId=projetoKarate**
 ```  
   
   
