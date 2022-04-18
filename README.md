@@ -242,4 +242,7 @@ projetokarate
 
 **ExamplesTest.java** --> segue a mesma idea do arquivo usersRunner.java, a diferença é que o usersRunner só roda a feature Users e o ExamplesTest roda tudo que tiver na pasta Examples, e dá pra fazer paralelismo ou seja roda vários testes ao mesmo tempo.
 
-**Karate-config.js** --> 
+**Karate-config.js** --> este arquivo é aonde se faz configurações gerais que impactarão todo o projeto, tudo que vc colocar nele será disparado antes de rodar qualquer teste, por exemplo, é possível definir uma variável nele que poderá ser utilizada em qualquer teste criado, no projeto de testes de api, a gente defini lá as urls base e também uma lógica pra definir o ambiente aonde serão rodados os testes.
+
+**logback-test.xml** --> Este arquivo de configuração de logs
+**pom.xml** --> Este arquivo consegue fazer a injeção de dependência, tipo é possível usar plugins e frameworks externos, aí nesse arquivo vc pode por o endereço e algumas configurações para a utilização desses recursos
