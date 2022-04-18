@@ -230,19 +230,19 @@ projetokarate
 
 #### Explicando a estrutura do projeto Karatê. ####
 
-**projetokarate** --> é o nome da pasta do projeto, mas conseguimos alteramos para qual quer nome link do exemplo [nome do projeto](https://github.com/andersonsylvestre/karate-dsl/blob/master/README.md#instala%C3%A7%C3%A3o-e-configura%C3%A7%C3%A3o-do-karat%C3%AA-dsl). <br>
+**projetokarate** --> É o nome da pasta do projeto, mas conseguimos alteramos para qual quer nome link do exemplo [nome do projeto](https://github.com/andersonsylvestre/karate-dsl/blob/master/README.md#instala%C3%A7%C3%A3o-e-configura%C3%A7%C3%A3o-do-karat%C3%AA-dsl). <br>
 **src\test\java** --> Esta pasta é onde se escrevem os testes(Estrutura padrao do Java). <br>
-**examples** --> esta pasta vai ser a organização da pastas exemplos: <br>
+**examples** --> Esta pasta vai ser a organização da pastas exemplos: <br>
 
 * useres ou o nome da que desejar
 
 
-**users.feature** --> este arquivo com a extenção **.feature** são arquivos da escrita gherkin
-**usersRunner.java** --> este arquivo é o que dispara os testes e aonde vc faz as configurações, por exemplo nele é possível fazer filtros de tags para disparar somente os testes com aquela tag, você pode criar um Runner pra cada feature que fica dentro da mesma pasta que ela ou coloca uma fora dessas pastas e deixa geral.
+**users.feature** --> Este arquivo com a extenção **.feature** são arquivos da escrita gherkin
+**usersRunner.java** --> Este arquivo é o que dispara os testes e aonde vc faz as configurações, por exemplo nele é possível fazer filtros de tags para disparar somente os testes com aquela tag, você pode criar um Runner pra cada feature que fica dentro da mesma pasta que ela ou coloca uma fora dessas pastas e deixa geral.
 
-**ExamplesTest.java** --> segue a mesma idea do arquivo usersRunner.java, a diferença é que o usersRunner só roda a feature Users e o ExamplesTest roda tudo que tiver na pasta Examples, e dá pra fazer paralelismo ou seja roda vários testes ao mesmo tempo.
+**ExamplesTest.java** --> Segue a mesma idea do arquivo usersRunner.java, a diferença é que o usersRunner só roda a feature Users e o ExamplesTest roda tudo que tiver na pasta Examples, e dá pra fazer paralelismo ou seja roda vários testes ao mesmo tempo.
 
-**Karate-config.js** --> este arquivo é aonde se faz configurações gerais que impactarão todo o projeto, tudo que vc colocar nele será disparado antes de rodar qualquer teste, por exemplo, é possível definir uma variável nele que poderá ser utilizada em qualquer teste criado, no projeto de testes de api, a gente defini lá as urls base e também uma lógica pra definir o ambiente aonde serão rodados os testes.
+**Karate-config.js** --> Este arquivo é aonde se faz configurações gerais que impactarão todo o projeto, tudo que vc colocar nele será disparado antes de rodar qualquer teste, por exemplo, é possível definir uma variável nele que poderá ser utilizada em qualquer teste criado, no projeto de testes de api, a gente defini lá as urls base e também uma lógica pra definir o ambiente aonde serão rodados os testes.
 
 **logback-test.xml** --> Este arquivo de configuração de logs
 **pom.xml** --> Este arquivo consegue fazer a injeção de dependência, tipo é possível usar plugins e frameworks externos, aí nesse arquivo vc pode por o endereço e algumas configurações para a utilização desses recursos
