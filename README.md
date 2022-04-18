@@ -238,5 +238,8 @@ projetokarate
 
 
 **users.feature** --> este arquivo com a extenção **.feature** são arquivos da escrita gherkin
-**usersRunner.java** -->
+**usersRunner.java** --> este arquivo é o que dispara os testes e aonde vc faz as configurações, por exemplo nele é possível fazer filtros de tags para disparar somente os testes com aquela tag, você pode criar um Runner pra cada feature que fica dentro da mesma pasta que ela ou coloca uma fora dessas pastas e deixa geral.
+
+**ExamplesTest.java** --> segue a mesma idea do arquivo usersRunner.java, a diferença é que o usersRunner só roda a feature Users e o ExamplesTest roda tudo que tiver na pasta Examples, e dá pra fazer paralelismo ou seja roda vários testes ao mesmo tempo.
+
 
