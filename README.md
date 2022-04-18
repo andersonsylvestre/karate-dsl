@@ -242,4 +242,4 @@ projetokarate
 
 **ExamplesTest.java** --> segue a mesma idea do arquivo usersRunner.java, a diferença é que o usersRunner só roda a feature Users e o ExamplesTest roda tudo que tiver na pasta Examples, e dá pra fazer paralelismo ou seja roda vários testes ao mesmo tempo.
 
-
+**Karate-config.js** --> 
