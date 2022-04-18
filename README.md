@@ -221,7 +221,7 @@ projetokarate
 |     |-->examples
 |     |   |-->users
 |     |   |    |-->users.feature
-|     |   |    |-->UsersRunner.java
+|     |   |    |-->usersRunner.java
 |     |   |-->ExamplesTest.java
 |     |--> Karate-config.js
 |     |--> logback-test.xml
@@ -234,11 +234,9 @@ projetokarate
 **src\test\java** --> Esta pasta é onde se escrevem os testes(Estrutura padrao do Java). <br>
 **examples** --> esta pasta vai ser a organização da pastas exemplos: <br>
 
-* useres
-* pix
-* financeiramente
-* loja
-* duda
+* useres ou o nome da que desejar
 
-**users.feature** --> este arquivo com a extenção **.feature** são arquivos gherkin
+
+**users.feature** --> este arquivo com a extenção **.feature** são arquivos da escrita gherkin
+**usersRunner.java** -->
 
