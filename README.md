@@ -230,7 +230,7 @@ projetokarate
 
 #### Explicando a estrutura do projeto Karatê. ####
 
-**projetokarate** --> é o nome da pasta do projeto, mas conseguimos alteramos para qual quer nomo. <br>
+**projetokarate** --> é o nome da pasta do projeto, mas conseguimos alteramos para qual quer nome link do exemplo [nome do projeto](https://github.com/andersonsylvestre/karate-dsl/blob/master/README.md#instala%C3%A7%C3%A3o-e-configura%C3%A7%C3%A3o-do-karat%C3%AA-dsl). <br>
 **src\test\java** --> Esta pasta é onde se escrevem os testes(Estrutura padrao do Java). <br>
 **examples** --> esta pasta vai ser a organização da pastas exemplos: <br>
 
