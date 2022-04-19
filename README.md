@@ -100,7 +100,7 @@ Para testar se o Java foi instalado e está funcionando corretamente no computad
 ### Adicionando o Maven nas variáveis de ambiente ###
 
 Para o **Windows:** <br>
-* Após salvar o arquivo no diretório "C:\projeto\Karate-dsl" temosa que adicionar o local da pasta do Maven em variável de ambiente PATH do usuário, da seguinte forma. <br>
+* Após salvar o arquivo no diretório "C:\projeto\Karate-dsl" temos que adicionar o local da pasta do Maven em variável de ambiente PATH do usuário, da seguinte forma. <br>
   
 * Vá com o botão direito do mouse em **Este Computador** e clique em propriedades
 * Procure pela funcionalidade **Configurações avançadas** do sistema clique nesta opção
