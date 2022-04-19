@@ -157,6 +157,7 @@ Abra o VSCode instale o seguintes plugins
 * Maven for Java
 * VSCode-icons - opcional
 * Hyper Term Theme - opcional
+* KarateIDE Classpath Jar
 
 ## Instalação e configuração do Karatê-Dsl ##
   
