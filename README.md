@@ -249,5 +249,5 @@ projetokarate
 **logback-test.xml** --> Este arquivo de configuração de logs
 **pom.xml** --> Este arquivo consegue fazer a injeção de dependência, tipo é possível usar plugins e frameworks externos, aí nesse arquivo vc pode por o endereço e algumas configurações para a utilização desses recursos
 
-
+## Executando o Karatê-Dsl a primeira vez ##
 ## Configurando o proxy ##
